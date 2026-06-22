@@ -177,9 +177,9 @@ contact    : himanshusaraswat@gmail.com | +91 8923771741
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu_saraswat?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/him525?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/him525/)
 
-> 🧩 **200+ problems solved** — sharpening DSA skills one problem at a time
+> 🧩 **8 problems solved** — keep grinding, consistency is the key! 💪
 
 </div>
 
